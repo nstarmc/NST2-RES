@@ -1,0 +1,26 @@
+{
+    "packs":[
+        {
+        "Category":"NSTARMC基础模组整合包-Fabric",
+        "Version":[
+            {
+                "VersionName":"1.20",
+                "Url":"",
+                "PackID":10120101,
+                "UpdHistory":"不知道~"
+            }
+        ]
+        },
+        {
+            "Category":"NSTARMC基础模组整合包-Forge",
+            "Version":[
+                {
+                    "VersionName":"1.20",
+                    "Url":"",
+                    "PackID":20120101,
+                    "UpdHistory":"不知道2~"
+                }
+            ]
+            }
+    ]
+}
