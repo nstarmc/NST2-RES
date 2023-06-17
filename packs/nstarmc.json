@@ -4,11 +4,11 @@
         "Category":"NSTARMC基础模组整合包-Fabric",
         "Version":[
             {
-                "VersionName":"1.20",
-                "Url":"https://drive.dnxshare.cn/f/qpHd/%E6%89%93%E5%8C%85%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6.zip",
+                "VersionName":"1.20。1",
+                "Url":"https://drive.dnxshare.cn/f/lEIR/1.20.1-Quilt-230617.zip",
                 "PackID":10120101,
                 "UpdTimespan":1,
-                "UpdHistory":"不知道~"
+                "UpdHistory":"[2023年6月17日]打包1.20.1版本"
             }
         ]
         },
@@ -16,7 +16,7 @@
             "Category":"NSTARMC基础模组整合包-Forge",
             "Version":[
                 {
-                    "VersionName":"1.20",
+                    "VersionName":"占位-不要下载！！！",
                     "Url":"",
                     "PackID":20120101,
                     "UpdTimespan":1,
